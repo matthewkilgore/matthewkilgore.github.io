@@ -117,7 +117,7 @@
     "siteUrl": "http://matthewkilgore.net/wardrobe",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-174961211-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-174961211-1');\n</script>\n",
     "mbrsiteDomain": "jfn0idietd",
     "cookiesAlert": false,
